@@ -1,2 +1,2 @@
 # hello-world
-My first repository in Git Hub
+This is my first file and first repository in Git Hub
